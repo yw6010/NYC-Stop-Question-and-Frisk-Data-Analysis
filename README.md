@@ -5,4 +5,4 @@ library.R : R file contains all helper functions to help us clean and manipulate
 
 preprocess_stop_and_frisk.R: R file contains all cleaning and manipulation process
 
-sqf_model_R: R file contains the feature enginering and machine learning models
+sqf_model.R: R file contains the feature enginering and machine learning models
